@@ -1,0 +1,24 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="hero-photo">
+  <img src="photo.JPG" alt="Kseniya Bortnikova">
+</div>
+
+::: {.hero}
+# Kseniya Bortnikova
+
+## PhD Candidate in Economics
+
+**Institute of Economic Studies, Charles University, Prague**
+:::
+
+::: {.about-text}
+I am a PhD candidate and researcher at the Institute of Economic Studies, Charles University. My research interests include meta-analysis, applied and financial econometrics, labour economics, and the economics of beauty.
+
+Much of my research uses meta-analysis to examine how empirical findings vary across studies and how much of a reported effect remains once selective reporting is taken into account. My work is mainly in labour and financial economics, with a particular interest in the economics of beauty. I also work on questions in health economics and applied policy.
+
+Alongside my research, I teach at Charles University and the Prague University of Economics and Business (VŠE), including courses in econometrics, game theory, financial management, and international finance.
+:::

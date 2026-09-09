@@ -1,0 +1,59 @@
+---
+title: "Research"
+---
+
+## Publications
+
+### Macroeconomic News and Exchange Rates: A Meta-Analysis of Event Studies
+
+**with Josef Bajzik and Evzen Kocenda**  
+*Journal of Economic Surveys*, 2026.
+
+We synthesize evidence from 985 estimates reported in 31 event studies on the response of exchange rates to macroeconomic news. After accounting for publication selection, the mean response is close to zero; much of the remaining variation is associated with differences in event windows and the construction of surprise measures.
+
+[Article](https://doi.org/10.1111/joes.70159)
+
+---
+
+### Cost-Effectiveness of Women’s Vaccination Against HPV: Results for Czech Republic
+
+**with Martina Luškova**  
+*Journal of Economics*, 2026, 74(5–6), 244–273.
+
+We evaluate alternative HPV vaccination policies in the Czech Republic using a multistate Markov model. Increasing vaccination coverage from 65.8% to 80%, as well as extending eligibility to ages 13–15 under the analysed policy setting, meets the cost-effectiveness threshold.
+
+[Article](https://doi.org/10.31577/ekoncas.2026.05-06.02)
+
+---
+
+### Beauty and Productivity in Academic Publishing
+
+*Czech Journal of Economics and Finance*, 2023, 73(3), 251–276.
+
+I examine whether facial attractiveness is associated with citation-based research performance among economists. The results show a positive association between attractiveness and citations, although the relationship becomes weaker at higher levels of attractiveness.
+
+[Article](https://doi.org/10.32065/CJEF.2023.03.02)
+
+---
+
+## Under Review / Revision
+
+### Meta-Analysis of Field Studies on Beauty and Professional Success
+
+**with Zuzana Irsova, Tomas Havranek, and Frantisek Bartos**  
+*Second-round revision at Nature Human Behaviour*
+
+We collect 1,159 estimates from 67 studies to examine the beauty premium in professional success. Correcting for publication bias reduces the average premium by at least one-third, and controlling for cognitive ability makes the remaining premium small for most occupations.
+
+[Working Paper](https://ies.fsv.cuni.cz/beauty-and-professional-success-meta-analysis)
+
+---
+
+### Effect of Exercise on Cognition, Memory, and Executive Function: A Study-Level Meta-Meta-Analysis Across Populations and Exercise Categories
+
+**with Frantisek Bartos, Martina Luskova, Karolina Hozova, Klara Kantova, Zuzana Irsova, and Tomas Havranek**  
+*Under review at the British Journal of Sports Medicine*
+
+We reanalyse 2,239 effect-size estimates from 215 meta-analyses of randomized controlled trials. After accounting for publication bias, average effects are substantially smaller than commonly reported, while large heterogeneity suggests that broad claims about cognitive benefits of exercise should be treated cautiously.
+
+[Working Paper](https://ies.fsv.cuni.cz/en/effect-exercise-cognition-memory-and-executive-function-study-level-meta-meta-analysis-across)
