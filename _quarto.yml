@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google4818da035978b4e5.html
 
 website:
   title: "Kseniya Bortnikova"
