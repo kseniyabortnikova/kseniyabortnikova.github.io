@@ -8,4 +8,4 @@ title: "Contact"
 **Location**  
 Prague, Czech Republic
 
-![Kseniya Bortnikova](contact-photo.jpeg){.contact-photo}
+<img src="contact-photo.jpeg" class="contact-photo" alt="Kseniya Bortnikova">

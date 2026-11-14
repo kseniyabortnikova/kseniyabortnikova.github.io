@@ -13,14 +13,14 @@ page-layout: full
 
 ## Economist
 
-**PhD in Economics · Charles University, Prague (2026)**
+**PhD in Economics · Charles University, Prague **
 :::
 
 ::: {.about-text}
 I completed my PhD at the Institute of Economic Studies, Charles University, in
 November 2026. My dissertation, *Essays on Empirical Research in Labor and
-Financial Markets*, was written under the supervision of Professor
-[Tomáš Havránek](https://ies.fsv.cuni.cz/en/contacts/people/78067720).
+Financial Markets*, was supervised by Professor Tomas Havranek.
+
 
 Much of my research uses meta-analysis to examine how empirical findings vary
 across studies and how much of a reported effect remains once selective
