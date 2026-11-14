@@ -2,17 +2,10 @@
 title: "Contact"
 ---
 
-## E-mail
-
-[kseniya.bortnikova@fsv.cuni.cz](mailto:kseniya.bortnikova@fsv.cuni.cz)  
+**Email**  
 [bortnikova.xenia@gmail.com](mailto:bortnikova.xenia@gmail.com)
 
-## Office address
+**Location**  
+Prague, Czech Republic
 
-Institute of Economic Studies  
-Faculty of Social Sciences, Charles University  
-Opletalova 1606/26  
-110 00 Prague  
-Czech Republic
-
-![](contact-photo.jpeg){.contact-photo}
+![Kseniya Bortnikova](contact-photo.jpeg){.contact-photo}

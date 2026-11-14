@@ -6,7 +6,10 @@ project:
 
 website:
   title: "Kseniya Bortnikova"
-  
+  site-url: https://kseniyabortnikova.github.io
+  description: "Economist working on meta-analysis and empirical methods in labour and financial economics."
+  open-graph: true
+
   navbar:
     left:
       - href: index.qmd
@@ -20,11 +23,20 @@ website:
       - href: contact.qmd
         text: Contact
 
+  page-footer:
+    left: "© 2026 Kseniya Bortnikova"
+    right:
+      - text: "Email"
+        href: "mailto:bortnikova.xenia@gmail.com"
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=skvvLtYAAAAJ"
+     # - text: "ORCID"
+      #  href: "https://orcid.org/YOUR-ID"
+      - text: "RePEc"
+        href: "https://ideas.repec.org/f/pbo1137.html"
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
-
-
-

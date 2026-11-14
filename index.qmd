@@ -11,15 +11,30 @@ page-layout: full
 ::: {.hero}
 # Kseniya Bortnikova
 
-## PhD Candidate in Economics
+## Economist
 
-**Institute of Economic Studies, Charles University, Prague**
+**PhD in Economics · Charles University, Prague (2026)**
 :::
 
 ::: {.about-text}
-I am a PhD candidate and researcher at the Institute of Economic Studies, Charles University. My research interests include meta-analysis, applied and financial econometrics, labour economics, and the economics of beauty.
+I completed my PhD at the Institute of Economic Studies, Charles University, in
+November 2026. My dissertation, *Essays on Empirical Research in Labor and
+Financial Markets*, was written under the supervision of Professor
+[Tomáš Havránek](https://ies.fsv.cuni.cz/en/contacts/people/78067720).
 
-Much of my research uses meta-analysis to examine how empirical findings vary across studies and how much of a reported effect remains once selective reporting is taken into account. My work is mainly in labour and financial economics, with a particular interest in the economics of beauty. I also work on questions in health economics and applied policy.
+Much of my research uses meta-analysis to examine how empirical findings vary
+across studies and how much of a reported effect remains once selective
+reporting is taken into account. My work is mainly in labour and financial
+economics, with a particular interest in the economics of beauty. I also work on
+questions in health economics and applied policy.
 
-Alongside my research, I teach at Charles University and the Prague University of Economics and Business (VŠE), including courses in econometrics, game theory, financial management, and international finance.
+My work has appeared in the *Journal of Economic Surveys*, the *Journal of
+Economics*, and the *Czech Journal of Economics and Finance*. Two coauthored
+papers are currently under review: a meta-analysis of beauty and professional
+success, in second-round revision at *Nature Human Behaviour*, and a
+meta-analysis of exercise and cognitive performance, under review at the
+*British Journal of Sports Medicine*. I am currently looking for postdoctoral
+and academic positions.
+
+Alongside my research, I have taught econometrics, game theory, and financial management at Charles University and the Prague University of Economics and Business (VŠE).
 :::
