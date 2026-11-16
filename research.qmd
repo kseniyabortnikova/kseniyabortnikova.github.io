@@ -40,7 +40,7 @@ I examine whether facial attractiveness is associated with citation-based resear
 
 ### Meta-Analysis of Field Studies on Beauty and Professional Success
 
-**with Zuzana Irsova, Tomas Havranek, and Frantisek Bartos**  
+**with Zuzana Irsova, Tomas Havranek, Frantisek Bartos,and Martina Luskova**
 *Second-round revision at Nature Human Behaviour*  
 *Previously circulated as "Beauty and Professional Success: A Meta-Analysis"*
 
@@ -53,8 +53,8 @@ We collect 1,159 estimates from 67 studies to examine the beauty premium in prof
 ### Effect of Exercise on Cognition, Memory, and Executive Function: A Study-Level Meta-Meta-Analysis Across Populations and Exercise Categories
 
 **with Frantisek Bartos, Martina Luskova, Karolina Hozova, Klara Kantova, Zuzana Irsova, and Tomas Havranek**  
-*Under review at the British Journal of Sports Medicine*
+*Revise and resubmit at Sports Medicine*
 
-We reanalyse 2,239 effect-size estimates from 215 meta-analyses of randomized controlled trials. After accounting for publication bias, average effects are substantially smaller than commonly reported, while large heterogeneity suggests that broad claims about cognitive benefits of exercise should be treated cautiously.
+We reanalyse 1,933 estimates from 201 meta-analyses of randomized controlled trials. After accounting for publication bias, average effects are substantially smaller than commonly reported, while large heterogeneity suggests that broad claims about cognitive benefits of exercise should be treated cautiously.
 
-[Working Paper](https://ies.fsv.cuni.cz/en/effect-exercise-cognition-memory-and-executive-function-study-level-meta-meta-analysis-across)
+[Working Paper](https://ies.fsv.cuni.cz/en/effect-exercise-cognition-memory-and-executive-function-study-level-meta-meta-analysis-across) · [Preprint](https://doi.org/10.31234/osf.io/qr8e2_v2)

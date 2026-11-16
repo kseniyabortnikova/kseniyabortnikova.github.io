@@ -5,3 +5,5 @@ title: "CV"
 My academic CV is available below.
 
 [Download CV (PDF)](Academic_CV_Kseniya_Bortnikova.pdf){.btn .btn-primary}
+
+*Last updated: November 2026*
