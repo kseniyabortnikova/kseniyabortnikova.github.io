@@ -15,7 +15,7 @@ We synthesize evidence from 985 estimates reported in 31 event studies on the re
 
 ---
 
-### Cost-Effectiveness of Women's Vaccination Against HPV: Results for the Czech Republic
+### Cost-Effectiveness of Women's Vaccination Against HPV: Results for Czech Republic
 
 **with Martina Luskova**  
 *Journal of Economics*, 2026, 74(5–6), 244–273.
@@ -40,13 +40,13 @@ I examine whether facial attractiveness is associated with citation-based resear
 
 ### Meta-Analysis of Field Studies on Beauty and Professional Success
 
-**with Zuzana Irsova, Tomas Havranek, Frantisek Bartos,and Martina Luskova**
+**with Zuzana Irsova, Tomas Havranek, Frantisek Bartos, and Martina Luskova**  
 *Second-round revision at Nature Human Behaviour*  
 *Previously circulated as "Beauty and Professional Success: A Meta-Analysis"*
 
 We collect 1,159 estimates from 67 studies to examine the beauty premium in professional success. Correcting for publication bias reduces the average premium by at least one-third, and controlling for cognitive ability makes the remaining premium small for most occupations.
 
-[Working Paper](https://ies.fsv.cuni.cz/en/beauty-and-professional-success-meta-analysis)
+[Paper, data and replication package](https://meta-analysis.cz/beauty)
 
 ---
 
@@ -57,4 +57,4 @@ We collect 1,159 estimates from 67 studies to examine the beauty premium in prof
 
 We reanalyse 1,933 estimates from 201 meta-analyses of randomized controlled trials. After accounting for publication bias, average effects are substantially smaller than commonly reported, while large heterogeneity suggests that broad claims about cognitive benefits of exercise should be treated cautiously.
 
-[Working Paper](https://ies.fsv.cuni.cz/en/effect-exercise-cognition-memory-and-executive-function-study-level-meta-meta-analysis-across) · [Preprint](https://doi.org/10.31234/osf.io/qr8e2_v2)
+[Preprint](https://doi.org/10.31234/osf.io/qr8e2_v2) · [Project page](https://meta-analysis.cz/exercise)
